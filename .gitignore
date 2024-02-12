@@ -6,7 +6,7 @@ out/
 .tmp
 .index.html_old
 .DS_Store
-.img/png_backup
+.NeuroStartUp.png_backup
 ### Eclipse ###
 .apt_generated
 .classpath
